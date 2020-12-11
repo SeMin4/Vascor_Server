@@ -21,6 +21,7 @@
 
 ![SystemArch](https://user-images.githubusercontent.com/41224549/86870486-70d88980-c113-11ea-894a-0079cad7b0c1.PNG)
 
+다음과 같은 프로젝트 구조로 전체적인 User들이 유기적으로 동작할 수 있도록 설계하였습니다.
 
 # Server
 
